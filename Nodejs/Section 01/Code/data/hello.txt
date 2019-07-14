@@ -1,0 +1,2 @@
+test read File
+你好, Node.js
